@@ -1,4 +1,4 @@
-##API NewTail
+API NewTail
 
 ##### Abaixo os endpoints da API
 
